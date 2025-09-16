@@ -38,12 +38,12 @@
 // }
 
 /* This is the practice of the variables manipulation */
-// public class Day_one{
-//     public static void main (String[] args){
-//         var items = 100;
-//         float pricePerItem = 9.9f;
-//         double totalPrice = items * pricePerItem;
-//         char sign = '$';
-//         System.out.println("The total Price of the items are: " + totalPrice + sign);
-//     }
-// }
+public class Day_one{
+    public static void main (String[] args){
+        var items = 100;
+        float pricePerItem = 9.9f;
+        double totalPrice = items * pricePerItem;
+        char sign = '$';
+        System.out.println("The total Price of the items are: " + totalPrice + sign);
+    }
+}

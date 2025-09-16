@@ -24,6 +24,8 @@ public class Day_two{
             System.out.println("X is Equal to Y");
         }
 
+        String result = (x <= y) ? "X is either equal or less then Y" : "X is greater then Y";
+        System.out.println(result);
 
     }
 }
